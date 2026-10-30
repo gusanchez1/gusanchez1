@@ -10,8 +10,8 @@ Computer Science student at FAM (São Paulo, Brazil) and aspiring web developer,
 
 ## What I work with
 
-- **Hands-on:** HTML, CSS, JavaScript, Bootstrap, Git and GitHub
-- **Learning:** React, Tailwind CSS, Node.js, Express, MongoDB
+- **Hands-on:** HTML, CSS, JavaScript, Bootstrap, Node.js, Express, MongoDB, EJS, Git and GitHub
+- **Learning:** React, Tailwind CSS, Vite
 
 ## Right now
 
@@ -40,8 +40,8 @@ Estudante de Ciência da Computação na FAM (São Paulo) e desenvolvedor web em
 
 ### Com o que trabalho
 
-- **Experiência prática:** HTML, CSS, JavaScript, Bootstrap, Git e GitHub
-- **Em aprendizado:** React, Tailwind CSS, Node.js, Express, MongoDB
+- **Experiência prática:** HTML, CSS, JavaScript, Bootstrap, Node.js, Express, MongoDB, EJS, Git e GitHub
+- **Em aprendizado:** React, Tailwind CSS, Vite
 
 ### Agora
 
